@@ -6,3 +6,4 @@ detta är min test fil
 - druvor
  
 Detta är mina tillägg
+Och ännu en förändring
